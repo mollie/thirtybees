@@ -1,5 +1,9 @@
 *mollie*.zip
+.idea/
+lib/vendor/
+lib/composer.lock
 views/js/app/dist/**
 views/js/app/node_modules/**
+package-lock.json
 yarn.lock
 package-lock.json
